@@ -1,0 +1,33 @@
+header {
+  background-color: #363637;
+  color: white;
+}
+
+
+.adorno {
+  background-color: black;
+  height: 20px;
+  width: 100%;
+}
+
+.recuadro {
+  background-color: #cccccc;
+  height: 200px;
+  margin-top:10px;
+}
+
+
+.cuadrado {
+   background-color: #cccccc;
+   height: 70px;
+  
+   margin:10px;
+}
+
+
+footer {
+  background-color: black;
+  font-size: 8px;
+  text-align: center;
+  color: white;
+}
